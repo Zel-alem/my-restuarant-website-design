@@ -43,6 +43,11 @@ a:hover {
   background-color: #c23616;
   color: white;
 }
+
+.btn-primary:active{
+  background-color: green;
+}
+
 h2 {
   color: #222f3e;
   font-size: 2rem;
